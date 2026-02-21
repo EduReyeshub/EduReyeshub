@@ -18,5 +18,5 @@ Me interesa utilizar los datos como herramienta estratégica para la toma de dec
 - Machine Learning fundamentals
 
 ## 📫 Conecta conmigo
-LinkedIn: (aquí pegas tu link)
+LinkedIn: https://www.linkedin.com/in/jes%C3%BAs-eduardo-reyes-jacinto-576406156/
 Email: edureyes7@outlook.com
