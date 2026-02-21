@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eduardo Reyes
 
-Ingeniero Bioquímico con fuerte enfoque analítico y transición al mundo tech.
+Ingeniero con enfoque analítico especializado en análisis de datos y aplicación de IA generativa para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
 Actualmente me especializo en:
 
@@ -8,8 +8,8 @@ Actualmente me especializo en:
 - 📈 Excel y herramientas de visualización
 - 🤖 IA generativa aplicada al análisis de datos
 - 🔍 Optimización y mejora de procesos
-
-Me interesa utilizar los datos como herramienta estratégica para la toma de decisiones y la mejora continua.
+  
+Creo en el poder de los datos para generar insights accionables y mejorar el rendimiento organizacional.
 
 ## 🚀 Actualmente aprendiendo
 - Python para análisis de datos
