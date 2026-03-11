@@ -1,8 +1,8 @@
 # 👋 Hola, soy Eduardo Reyes
 
-Ingeniero con enfoque analítico especializado en análisis de datos y aplicación de IA generativa para optimizar procesos y apoyar la toma de decisiones estratégicas.
+Ingeniero con enfoque analítico en formación como analista de datos y aplicación de IA generativa para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
-Actualmente me especializo en:
+Actualmente me estoy formando en:
 
 - 📊 Análisis de datos
 - 📈 Excel y herramientas de visualización
